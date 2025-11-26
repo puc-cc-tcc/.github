@@ -6,4 +6,11 @@
                 </a>
         </h3>
         <hr>
+        <img src="../assets/page-0.png" width="50%">
+        <img src="../assets/page-1.png" width="50%">
+        <img src="../assets/page-2.png" width="50%">
+        <img src="../assets/page-3.png" width="50%">
+        <img src="../assets/page-4.png" width="50%">
+        <img src="../assets/page-5.png" width="50%">
+        <img src="../assets/page-6.png" width="50%">
 </div>
