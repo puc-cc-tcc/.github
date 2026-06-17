@@ -1,11 +1,11 @@
 <div align="center">
-        <hr>
+        <!-- <hr>
         <h3>
                 <a href="https://puc-cc-tcc.github.io/view/" target="_blank">
                         Website: Web Dashboard | E.Analytics
                 </a>
         </h3>
-        <hr>
+        <hr> -->
         <img src="../assets/page-0.png" width="100%">
         <img src="../assets/page-1.png" width="100%">
         <img src="../assets/page-2.png" width="100%">
