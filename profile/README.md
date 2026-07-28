@@ -6,6 +6,8 @@
                 </a>
         </h3>
         <hr> -->
+        <img src="../assets/banner.png" width="100%">
+        <br>
         <img src="../assets/page-0.png" width="100%">
         <img src="../assets/page-1.png" width="100%">
         <img src="../assets/page-2.png" width="100%">
