@@ -6,6 +6,6 @@
         </h3>
         <hr>
         Lucas Omar Andrade Leal · Marcio Leandro Gonçalves
-        <img src="../assets/banner.png" width="100%">
+        <img src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png" width="100%">
         <br>
 </div>
